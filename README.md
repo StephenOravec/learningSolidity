@@ -1,6 +1,6 @@
-#Stephen Oravec learns Solidity
+# Stephen Oravec learns Solidity
 
-##Code & Tutorials:
+## Code & Tutorials:
 
 https://docs.soliditylang.org/
 
@@ -10,7 +10,7 @@ https://docs.base.org/base-camp/docs/welcome/
 
 https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development/
 
-##Development Tools:
+## Development Tools:
 
 https://code.visualstudio.com/
 
