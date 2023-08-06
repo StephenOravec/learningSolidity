@@ -5,7 +5,7 @@ pragma solidity 0.8.17;
 contract BasicMath {
 
     function adder(uint _a, uint _b) public pure returns (uint sum, bool error) {
-         {
+         unchecked {
             sum = _a + _b;
             if (sum >= _a && sum >= _b) {
                 error = false;
@@ -18,7 +18,7 @@ contract BasicMath {
     }
 
     function subtractor(uint _a, uint _b) public pure returns (uint difference, bool error) {
-        {
+        unchecked {
             if (_a >= _b) {
                 difference = _a - _b;
                 error = false;
