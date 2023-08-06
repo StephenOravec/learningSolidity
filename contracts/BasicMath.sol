@@ -3,5 +3,13 @@
 pragma solidity 0.8.17;
 
 contract BasicMath {
+
+    function adder(uint _a, uint _b) public {
+
+    }
+
+    function subtractor(uint _a, uint _b) public {
+
+    }
     
 }

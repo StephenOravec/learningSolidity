@@ -107,5 +107,4 @@ dist
 build
 
 # VS Code
-.code-workspace
-learningSolidity.code-workspace
+*.code-workspace
