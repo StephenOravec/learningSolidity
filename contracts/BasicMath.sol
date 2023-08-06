@@ -9,8 +9,7 @@ contract BasicMath {
             sum = _a + _b;
             if (sum >= _a && sum >= _b) {
                 error = false;
-            }
-            else {
+            } else {
                 sum = 0;
                 error = true;
             }
